@@ -6,19 +6,12 @@ A deep learning object detection system trained using YOLOv8 to classify product
 
 ## Project Structure
 Material Detection/
-
 ├── main.ipynb              # Model training notebook
-
 ├── ColabDetection.ipynb    # Google Colab training version
-
-├── detection.ipynb         # Run and test the custom model
-
+├── detection.ipynb         # Run and test the custom model (image, video, webcam)
 ├── images/                 # Training images
-
 ├── labels/                 # Annotated label data
-
 ├── runs/                   # Training metrics and results
-
 └── videos/                 # Output detection videos
 
 ## Tech Stack
@@ -44,9 +37,7 @@ Open `ColabDetection.ipynb` in Google Colab and run all cells.
 ```python
 pip install ultralytics opencv-python
 ```
-- For image: run `detection/image_detection.py`
-- For video: run `detection/video_detection.py`  
-- For webcam: run `detection/webcam_detection.py`
+Open `detection.ipynb` and run the cells for image, video, or webcam detection.
 
 ## Results
 - Trained for 300 epochs on custom material dataset
