@@ -8,11 +8,17 @@ A deep learning object detection system trained using YOLOv8 to classify product
 Material Detection/
 
 ├── main.ipynb              # Model training notebook
+
 ├── ColabDetection.ipynb    # Google Colab training version
+
 ├── detection.ipynb         # Run and test the custom model
+
 ├── images/                 # Training images
+
 ├── labels/                 # Annotated label data
+
 ├── runs/                   # Training metrics and results
+
 └── videos/                 # Output detection videos
 
 ## Tech Stack
