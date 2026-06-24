@@ -6,6 +6,7 @@ A deep learning object detection system trained using YOLOv8 to classify product
 
 ## Project Structure
 Material Detection/
+
 ├── main.ipynb              # Model training notebook
 
 ├── ColabDetection.ipynb    # Google Colab training version
