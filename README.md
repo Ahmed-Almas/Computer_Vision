@@ -1,1 +1,1 @@
-A collection of computer vision projects built using Python and deep learning frameworks. This repository includes implementations of image classification, object detection, and image processing techniques using real-world datasets. The projects demonstrate practical applications of computer vision for analyzing and interpreting visual data.
+
